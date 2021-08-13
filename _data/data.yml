@@ -25,6 +25,24 @@ sidebar:
       - idiom: English
         level: Professional        
 
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Pytoch
+        level: 100%   
+      - name: Tensorflow
+        level: 100% 
+      - name: OpenCV
+        level: 100%
+      - name: Matlab
+        level: 100%  
+      - name: C/C++
+        level: 90% 
+      - name: JAVA
+        level: 80%   
+
 publications:
     title: Publications (SCI/SCIE)
           
@@ -60,22 +78,6 @@ publications:
         conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (2019)"       
     
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Pytoch
-        level: 100%   
-      - name: Tensorflow
-        level: 100% 
-      - name: OpenCV
-        level: 100%
-      - name: Matlab
-        level: 100%  
-      - name: C/C++
-        level: 90% 
-      - name: JAVA
-        level: 80%   
         
 
 footer: >
