@@ -8,170 +8,71 @@ sidebar:
 
     # Profile information
     name: Yongsik Jin
-    tagline: Researcher
+    tagline: Cybernetics
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yongsik@etri.re.kr
     
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
+    website: yongsik-jin.github.io/online-cv/
     github: Yongsik-Jin
-    telegram: # add your nickname without '@' sign
-    
-    bitbucket:
-    
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+
 
     languages:
-      - idiom: English
+      - idiom: Korea
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - idiom: English
+        level: Professional        
 
 publications:
-    title: Publications
+    title: Publications (SCI/SCIE)
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Affine matched parameterization approach to sampled-data stabilization criteria for TS fuzzy systems with variable sampling"
+        link: "https://doi.org/10.1016/j.jfranklin.2021.02.023"
+        authors: Y Jin, W Kwon, SM Lee
+        conference: "Journal of the Franklin Institute (2021)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Further Results on Sampled-data H_infinity Filtering for TS Fuzzy Systems with Asynchronous Premise Variables"
+        link: "10.1109/TFUZZ.2021.3069319"
+        authors: Y Jin, W Kwon, SM Lee
+        conference: "IEEE Transactions on Fuzzy Systems (2021)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Parameterized Luenberger-Type H∞ State Estimator for Delayed Static Neural Networks"
+        link: "10.1109/TNNLS.2020.3045146"
+        authors: Y Jin, W Kwon, SM Lee
+        conference: "IEEE Transactions on Neural Networks and Learning Systems (2021)"
+        
+      - title: "Affine Memory Control for Synchronization of Delayed Fuzzy Neural Networks"
+        link: "10.1109/ACCESS.2020.3048170"
+        authors: W Kwon, Y Jin, D Kang, S Lee
+        conference: "IEEE Access (2020)"
+        
+      - title: "PI-type event-triggered H∞ filter for networked TS fuzzy systems using affine matched membership function approach"
+        link: "https://doi.org/10.1016/j.amc.2020.125420"
+        authors: W Kwon, Y Jin, SM Lee
+        conference: "Applied Mathematics and Computation (2020)"  
+        
+      - title: "Enhancing binocular depth estimation based on proactive perception and action cyclic learning for an autonomous developmental robot"
+        link: "10.1109/TSMC.2017.2779474"
+        authors: Y Jin, M Lee
+        conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (2019)"   
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python (Pytoch, Tensorflow)
+      - name: Pytoch
         level: 100%   
+      - name: Tensorflow
+        level: 100% 
+      - name: OpenCV
+        level: 100%
+      - name: Matlab
+        level: 100%  
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
