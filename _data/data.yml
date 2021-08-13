@@ -27,8 +27,7 @@ sidebar:
 
 publications:
     title: Publications (SCI/SCIE)
-    intro: |
-      
+          
     papers:
       - title: "Affine matched parameterization approach to sampled-data stabilization criteria for TS fuzzy systems with variable sampling"
         link: "https://doi.org/10.1016/j.jfranklin.2021.02.023"
