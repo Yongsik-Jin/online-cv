@@ -72,6 +72,10 @@ skills:
         level: 100%
       - name: Matlab
         level: 100%  
+      - name: C/C++
+        level: 90% 
+      - name: JAVA
+        level: 80%   
         
 
 footer: >
