@@ -125,7 +125,7 @@ publications_conference:
     papers:
       - title: "Smart cane: Face recognition system for blind"
         link: "https://doi.org/10.1145/2814940.2814952"
-        authors: <font size="2em" color="green">Yongsik Jin</font>, Jonghong Kim, Bumhwi Kim, Rammohan Mallipeddi, Minho Lee*
+        authors: Yongsik Jin, Jonghong Kim, Bumhwi Kim, Rammohan Mallipeddi, Minho Lee*
         conference: "3th International Conference on Human-Agent Interaction (HAI) (2015)"
 
     papers:
