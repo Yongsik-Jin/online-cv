@@ -200,7 +200,7 @@ p {
 
     .project-title {
         font-size: 16px;
-        font-weight: 400;
+        font-weight: 500;
         margin-top: 0;
         margin-bottom: 5px;
 	color: darken($theme-color, 15%);
@@ -216,7 +216,7 @@ p {
 
     .publication_jounal-title {
         font-size: 16px;
-        font-weight: 400;
+        font-weight: 500;
         color: $text-color;
         margin-bottom: 1px;
     }
@@ -224,6 +224,10 @@ p {
         font-style: italic;
         color: $text-grey;
         margin-bottom: 1px;
+        span{
+          color:black;
+          font-weight: bold;
+        }
     }
     .publications_jounal-section {
         .intro {
@@ -244,6 +248,10 @@ p {
         font-style: italic;
         color: $text-grey;
         margin-bottom: 1px;
+        span{
+          color:black;
+          font-weight: bold;
+        }
     }
     .publications_conference-section {
         .intro {

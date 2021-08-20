@@ -83,47 +83,47 @@ publications_conference:
     papers:
       - title: "Data filtering for corrupted MIMIC III dataset with deep learning"
         link: "10.23919/ICCAS50221.2020.9268224"
-        authors: Yongsik Jin, Crino Shin*, Wookyong Kwon, Kyuhyung Kim, Jong Pil Yun
+        authors: <span>Yongsik Jin<\span>, Crino Shin*, Wookyong Kwon, Kyuhyung Kim, Jong Pil Yun
         conference: "20th International Conference on Control, Automation and Systems (ICCAS) (2020)"
 
       - title: "Discrete-time H∞ Explicit Input and Output Feedback Control for Linear Parameter Varying Systems"
         link: "10.23919/ICCAS50221.2020.9268435"
-        authors: Wookyong Kwon, Jaemin Baek, Yongsik Jin, Dongyeop Kang, Soohee Han*
+        authors: Wookyong Kwon, Jaemin Baek, <span>Yongsik Jin<\span>, Dongyeop Kang, Soohee Han*
         conference: "20th International Conference on Control, Automation and Systems (ICCAS) (2020)"
 
       - title: "Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs"
         link: "10.1109/SSCI44817.2019.9002962"
-        authors: Yongsik Jin, Seungyong Han, Jongcheon Park, SM Lee*
+        authors: <span>Yongsik Jin<\span>, Seungyong Han, Jongcheon Park, SM Lee*
         conference: "IEEE Symposium Series on Computational Intelligence (SSCI) (2019)"
 
       - title: "Development of autonomous driving systems using state estimator with multi-rate sampled-data"
         link: "10.1109/ICCE.2019.8661985"
-        authors: Yongsik Jin, Seungyong Han, Eungchang Mason Lee, SM Lee*, Crino Shin, Jongpil Yun
+        authors: <span>Yongsik Jin<\span>, Seungyong Han, Eungchang Mason Lee, SM Lee*, Crino Shin, Jongpil Yun
         conference: "IEEE International Conference on Consumer Electronics (ICCE) (2019)"
 
       - title: "Predicting Unmeasured Region of the Efficiency Map of a Speed Reducer Using a Denoising Auto-Encoder"
         link: "10.1109/ICCIA.2018.00030"
-        authors: Crino Shin, Jongpil Yun*, Seunghyun Jeong, Yongsik Jin
+        authors: Crino Shin, Jongpil Yun*, Seunghyun Jeong, <span>Yongsik Jin<\span>
         conference: "3rd International Conference on Computational Intelligence and Applications (ICCIA) (2018)"
 
       - title: "Dissipative reset adaptive observer for a class of singular systems"
         link: "10.1109/ASCC.2017.8287498"
-        authors: Yongsik Jin, Wookyong Kwon, Jongpil Yun, Sangmoon Lee*
+        authors: <span>Yongsik Jin<\span>, Wookyong Kwon, Jongpil Yun, Sangmoon Lee*
         conference: "11th Asian Control Conference (ASCC) (2017)"
 
       - title: "Autonomous depth perception of humanoid robot using binocular vision system through sensorimotor interaction with environment"
         link: "10.1007/978-3-319-26535-3_63"
-        authors: Yongsik Jin, Mallipeddi Rammohan, Giyoung Lee, Minho Lee*
+        authors: <span>Yongsik Jin<\span>, Mallipeddi Rammohan, Giyoung Lee, Minho Lee*
         conference: "22th International Conference on Neural Information Processing (ICONIP) (2015)"
 
       - title: "Smart cane: Face recognition system for blind"
         link: "https://doi.org/10.1145/2814940.2814952"
-        authors: Yongsik Jin, Jonghong Kim, Bumhwi Kim, Rammohan Mallipeddi, Minho Lee*
+        authors: <span>Yongsik Jin<\span>, Jonghong Kim, Bumhwi Kim, Rammohan Mallipeddi, Minho Lee*
         conference: "3th International Conference on Human-Agent Interaction (HAI) (2015)"
 
       - title: "Pictogram Generator from Korean Sentences using Emoticon and Saliency Map"
         link: "https://doi.org/10.1145/2814940.2814991"
-        authors: Jihun Kim, Amitash Ojha, Yongsik Jin, Minho Lee*
+        authors: Jihun Kim, Amitash Ojha, <span>Yongsik Jin<\span>, Minho Lee*
         conference: "3th International Conference on Human-Agent Interaction (HAI) (2015)"
 
 footer: >
