@@ -49,32 +49,32 @@ publications_jounal:
     papers:
       - title: "Parameterized Luenberger-Type H∞ State Estimator for Delayed Static Neural Networks"
         link: "https://ieeexplore.ieee.org/document/9314928"
-        authors: <span>Y Jin</span>, W Kwon, SM Lee*
+        authors: <span>Yongsik Jin</span>, Wookyong Kwon, Sangmoon Lee*
         conference: "IEEE Transactions on Neural Networks and Learning Systems (2021)"
 
       - title: "Affine matched parameterization approach to sampled-data stabilization criteria for T-S fuzzy systems with variable sampling"
         link: "https://doi.org/10.1016/j.jfranklin.2021.02.023"
-        authors: <span>Y Jin</span>, W Kwon, SM Lee*
+        authors: <span>Yongsik Jin</span>, W Kwon, SM Lee*
         conference: "Journal of the Franklin Institute (2021)"
 
       - title: "Further Results on Sampled-data H∞ Filtering for T-S Fuzzy Systems with Asynchronous Premise Variables"
         link: "https://ieeexplore.ieee.org/document/9392358"
-        authors: <span>Y Jin</span>, W Kwon, SM Lee*
+        authors: <span>Yongsik Jin</span>, Wookyong Kwon, Sangmoon Lee*
         conference: "IEEE Transactions on Fuzzy Systems (2021)"
 
       - title: "Affine Memory Control for Synchronization of Delayed Fuzzy Neural Networks"
         link: "https://ieeexplore.ieee.org/document/9311203"
-        authors: W Kwon, <span>Y Jin</span>, D Kang, S Lee*
+        authors: Wookyong Kwon, <span>Yongsik Jin</span>, Dongyeop Kang, Sangmoon Lee*
         conference: "IEEE Access (2020)"
 
       - title: "PI-type event-triggered H∞ filter for networked T-S fuzzy systems using affine matched membership function approach"
         link: "https://doi.org/10.1016/j.amc.2020.125420"
-        authors: W Kwon, <span>Y Jin</span>, SM Lee*
+        authors: W Kwon, <span>Yongsik Jin</span>, SM Lee*
         conference: "Applied Mathematics and Computation (2020)"
 
       - title: "Enhancing binocular depth estimation based on proactive perception and action cyclic learning for an autonomous developmental robot"
         link: "https://ieeexplore.ieee.org/document/8263208"
-        authors: <span>Y Jin</span>, M Lee*
+        authors: <span>Yongsik Jin</span>, Minho Lee*
         conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (2019)"
 
 publications_conference:
@@ -82,37 +82,37 @@ publications_conference:
 
     papers:
       - title: "Data filtering for corrupted MIMIC III dataset with deep learning"
-        link: "10.23919/ICCAS50221.2020.9268224"
+        link: "https://ieeexplore.ieee.org/document/9268224"
         authors: <span>Yongsik Jin</span>, Crino Shin*, Wookyong Kwon, Kyuhyung Kim, Jong Pil Yun
         conference: "20th International Conference on Control, Automation and Systems (ICCAS) (2020)"
 
       - title: "Discrete-time H∞ Explicit Input and Output Feedback Control for Linear Parameter Varying Systems"
-        link: "10.23919/ICCAS50221.2020.9268435"
+        link: "https://ieeexplore.ieee.org/document/9268435"
         authors: Wookyong Kwon, Jaemin Baek, <span>Yongsik Jin</span>, Dongyeop Kang, Soohee Han*
         conference: "20th International Conference on Control, Automation and Systems (ICCAS) (2020)"
 
       - title: "Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs"
-        link: "10.1109/SSCI44817.2019.9002962"
+        link: "https://ieeexplore.ieee.org/document/9002962"
         authors: <span>Yongsik Jin</span>, Seungyong Han, Jongcheon Park, SM Lee*
         conference: "IEEE Symposium Series on Computational Intelligence (SSCI) (2019)"
 
       - title: "Development of autonomous driving systems using state estimator with multi-rate sampled-data"
-        link: "10.1109/ICCE.2019.8661985"
+        link: "https://ieeexplore.ieee.org/document/8661985"
         authors: <span>Yongsik Jin</span>, Seungyong Han, Eungchang Mason Lee, SM Lee*, Crino Shin, Jongpil Yun
         conference: "IEEE International Conference on Consumer Electronics (ICCE) (2019)"
 
       - title: "Predicting Unmeasured Region of the Efficiency Map of a Speed Reducer Using a Denoising Auto-Encoder"
-        link: "10.1109/ICCIA.2018.00030"
+        link: "https://ieeexplore.ieee.org/document/8711508"
         authors: Crino Shin, Jongpil Yun*, Seunghyun Jeong, <span>Yongsik Jin</span>
         conference: "3rd International Conference on Computational Intelligence and Applications (ICCIA) (2018)"
 
       - title: "Dissipative reset adaptive observer for a class of singular systems"
-        link: "10.1109/ASCC.2017.8287498"
+        link: "https://ieeexplore.ieee.org/document/8287498"
         authors: <span>Yongsik Jin</span>, Wookyong Kwon, Jongpil Yun, Sangmoon Lee*
         conference: "11th Asian Control Conference (ASCC) (2017)"
 
       - title: "Autonomous depth perception of humanoid robot using binocular vision system through sensorimotor interaction with environment"
-        link: "10.1007/978-3-319-26535-3_63"
+        link: "https://link.springer.com/chapter/10.1007/978-3-319-26535-3_63"
         authors: <span>Yongsik Jin</span>, Mallipeddi Rammohan, Giyoung Lee, Minho Lee*
         conference: "22th International Conference on Neural Information Processing (ICONIP) (2015)"
 
