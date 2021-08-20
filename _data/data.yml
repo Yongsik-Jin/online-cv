@@ -78,13 +78,13 @@ publications_jounal:
         conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (2019)"
 
 publications_conference:
-    title: Conference (SCI/SCIE)
+    title: Conference
 
     papers:
-      - title: "Parameterized Luenberger-Type H∞ State Estimator for Delayed Static Neural Networks"
-        link: "10.1109/TNNLS.2020.3045146"
-        authors: Y Jin, W Kwon, SM Lee*
-        conference: "IEEE Transactions on Neural Networks and Learning Systems (2021)"
+      - title: "Data filtering for corrupted MIMIC III dataset with deep learning"
+        link: "10.23919/ICCAS50221.2020.9268224"
+        authors: Yongsik Jin, Crino Shin*, Wookyong Kwon, Kyuhyung Kim, Jong Pil Yun
+        conference: "20th International Conference on Control, Automation and Systems (ICCAS) (2020)"
 
 
 
