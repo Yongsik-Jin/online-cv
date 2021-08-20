@@ -41,10 +41,10 @@ skills:
       - name: C/C++
         level: 90%
       - name: JAVA
-        level: 95%
+        level: 90%
 
 publications_jounal:
-    title: Publications (SCI/SCIE)
+    title: Publication (SCI/SCIE)
 
     papers:
       - title: "Parameterized Luenberger-Type H∞ State Estimator for Delayed Static Neural Networks"
@@ -77,6 +77,14 @@ publications_jounal:
         authors: Y Jin, M Lee*
         conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (2019)"
 
+publications_conference:
+    title: Conference (SCI/SCIE)
+
+    papers:
+      - title: "Parameterized Luenberger-Type H∞ State Estimator for Delayed Static Neural Networks"
+        link: "10.1109/TNNLS.2020.3045146"
+        authors: Y Jin, W Kwon, SM Lee*
+        conference: "IEEE Transactions on Neural Networks and Learning Systems (2021)"
 
 
 
