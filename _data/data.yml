@@ -128,11 +128,7 @@ publications_conference:
         authors: Yongsik Jin, Jonghong Kim, Bumhwi Kim, Rammohan Mallipeddi, Minho Lee*
         conference: "3th International Conference on Human-Agent Interaction (HAI) (2015)"
 
-    papers:
-      - title: "Pictogram Generator from Korean Sentences using Emoticon and Saliency Map"
-        link: "https://doi.org/10.1145/2814940.2814991"
-        authors: Jihun Kim, Amitash Ojha, Yongsik Jin, Minho Lee*
-        conference: "3th International Conference on Human-Agent Interaction (HAI) (2015)"
+    
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
