@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: yongsik@etri.re.kr
-    
+
     website: yongsik-jin.github.io/online-cv/
     github: Yongsik-Jin
 
@@ -23,7 +23,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional        
+        level: Professional
 
 
 skills:
@@ -31,27 +31,27 @@ skills:
 
     toolset:
       - name: Pytoch
-        level: 100%   
+        level: 100%
       - name: Tensorflow
-        level: 100% 
+        level: 100%
       - name: OpenCV
         level: 100%
       - name: Matlab
-        level: 100%  
+        level: 100%
       - name: C/C++
-        level: 90% 
+        level: 90%
       - name: JAVA
-        level: 80%   
+        level: 95%   
 
 publications:
     title: Publications (SCI/SCIE)
-          
+
     papers:
       - title: "Parameterized Luenberger-Type H∞ State Estimator for Delayed Static Neural Networks"
         link: "10.1109/TNNLS.2020.3045146"
         authors: Y Jin, W Kwon, SM Lee*
         conference: "IEEE Transactions on Neural Networks and Learning Systems (2021)"
-    
+
       - title: "Affine matched parameterization approach to sampled-data stabilization criteria for T-S fuzzy systems with variable sampling"
         link: "https://doi.org/10.1016/j.jfranklin.2021.02.023"
         authors: Y Jin, W Kwon, SM Lee*
@@ -60,25 +60,25 @@ publications:
       - title: "Further Results on Sampled-data H∞ Filtering for T-S Fuzzy Systems with Asynchronous Premise Variables"
         link: "10.1109/TFUZZ.2021.3069319"
         authors: Y Jin, W Kwon, SM Lee*
-        conference: "IEEE Transactions on Fuzzy Systems (2021)"     
-        
+        conference: "IEEE Transactions on Fuzzy Systems (2021)"
+
       - title: "Affine Memory Control for Synchronization of Delayed Fuzzy Neural Networks"
         link: "10.1109/ACCESS.2020.3048170"
         authors: W Kwon, Y Jin, D Kang, S Lee*
         conference: "IEEE Access (2020)"
-        
+
       - title: "PI-type event-triggered H∞ filter for networked T-S fuzzy systems using affine matched membership function approach"
         link: "https://doi.org/10.1016/j.amc.2020.125420"
         authors: W Kwon, Y Jin, SM Lee*
-        conference: "Applied Mathematics and Computation (2020)"  
-        
+        conference: "Applied Mathematics and Computation (2020)"
+
       - title: "Enhancing binocular depth estimation based on proactive perception and action cyclic learning for an autonomous developmental robot"
         link: "10.1109/TSMC.2017.2779474"
         authors: Y Jin, M Lee*
-        conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (2019)"       
-    
+        conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (2019)"
 
-        
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
