@@ -108,7 +108,7 @@ publications_conference:
       - title: "Predicting Unmeasured Region of the Efficiency Map of a Speed Reducer Using a Denoising Auto-Encoder"
         link: "10.1109/ICCIA.2018.00030"
         authors: Crino Shin, Jongpil Yun*, Seunghyun Jeong, Yongsik Jin
-        conference: "3rd International Conference on Computational Intelligence and Applications (ICCIA) (2018)" 
+        conference: "3rd International Conference on Computational Intelligence and Applications (ICCIA) (2018)"
 
     papers:
       - title: "Dissipative reset adaptive observer for a class of singular systems"
@@ -125,7 +125,7 @@ publications_conference:
     papers:
       - title: "Smart cane: Face recognition system for blind"
         link: "https://doi.org/10.1145/2814940.2814952"
-        authors: Yongsik Jin, Jonghong Kim, Bumhwi Kim, Rammohan Mallipeddi, Minho Lee*
+        authors: <font size="2em" color="green">Yongsik Jin</font>, Jonghong Kim, Bumhwi Kim, Rammohan Mallipeddi, Minho Lee*
         conference: "3th International Conference on Human-Agent Interaction (HAI) (2015)"
 
     papers:
