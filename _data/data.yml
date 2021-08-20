@@ -41,9 +41,9 @@ skills:
       - name: C/C++
         level: 90%
       - name: JAVA
-        level: 95%   
+        level: 95%
 
-publications:
+publications_jounal:
     title: Publications (SCI/SCIE)
 
     papers:
